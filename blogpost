@@ -84,7 +84,7 @@ src="https://raw.githubusercontent.com/appliedcategorytheory/appliedcategorytheo
 
 Aiming for a better visualization, in the above picture we put the values $x_{v_i}$ instead of the vector spaces $F(v_i) = \mathbb{R}$ and $e_j$ to abstractly represent the values in $F(e_j)$ associated with the application of $F_{v_i \unlhd e_j}$. Note that the two category theory supporters do not lie to each other (they exaggerate or soften their opinion) but they do have to lie to the first agent. On the other hand, the first agent did not have to lie to anyone, they only softened their opinion to achieve the apparent consensus. It is also interesting to note that the agent with the strongest opinion in the beginning was the one forced to “lie more”, the same happened in Example 8.2 of [Opinion Dynamics on Discourse Sheaves](https://arxiv.org/pdf/2005.12798.pdf). One final note is that the communication between the first and last agents has effectively ceased, as both restriction maps are quite close to the zero map, which can be interpreted as the respective agent expressing no opinion whatsoever.
 
-If you want to play with more complicated graphs, test other constants or different initial values, look at Sean’s Python code available in [Github](https://github.com/sjboc/Adjoint-School-2022/blob/main/Cellular%20Sheaves.ipynb).
+If you want to play with more complicated graphs, test other constants or different initial values, look at Sean’s Python code available in [Github](https://github.com/appliedcategorytheory/appliedcategorytheory.github.io/blob/master/images/2022-blog-posts/2B/Cellular%20Sheaves.ipynb).
 
 
     
